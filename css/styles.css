@@ -1,0 +1,59 @@
+.container{
+    width: 60%;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    border: 2px solid #e1e1e1;
+    border-radius: 20px;
+    background-color: #f9f9ff;
+}
+
+h1{
+   margin: 0;
+   font-size: 40px;
+}
+
+h2{
+    font-size: 33px;
+    
+}
+
+h3{
+    font-size: 24px;
+    color: purple;
+    padding: 5px;
+    border-bottom: 2px solid #a1a1a1;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid #e1e1e1;
+    
+}
+
+.contenidos li{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.preguntas li{
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.preguntas ul li{
+    font-weight: 300;
+  
+}
+
+ul li{
+    margin-top: 15px;
+    list-style: none;
+}
+
+
